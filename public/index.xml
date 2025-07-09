@@ -6,6 +6,14 @@
     <description>Recent content on Ram Panjwani&#39;s Blogs</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Wed, 09 Jul 2025 22:29:09 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I created this blogging website (and you can, too)</title>
+      <link>//localhost:1313/posts/blog-1/</link>
+      <pubDate>Wed, 09 Jul 2025 22:29:09 +0530</pubDate>
+      <guid>//localhost:1313/posts/blog-1/</guid>
+      <description>&lt;p&gt;This one is gonna be short, as it is my first blog. Also I wanted to take a cool looking screenshot is the reason I am typing.&lt;/p&gt;&#xA;&lt;p&gt;Making this website was pretty easy. Even a non-technical person can do it.&lt;/p&gt;&#xA;&lt;p&gt;You only need two things for this to work: &lt;a href=&#34;https://git-scm.com/&#34;&gt;Git&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
