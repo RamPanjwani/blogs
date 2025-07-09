@@ -99,3 +99,7 @@ pagination.pagerSize = 5
   # uncomment the line below (and correct the local path if necessary).
   # --
   # replacements = "github.com/panr/hugo-theme-terminal/v4 -> themes/terminal"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
