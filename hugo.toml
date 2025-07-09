@@ -92,7 +92,7 @@ pagination.pagerSize = 5
 
       [languages.en.params.logo]
         logoText = "Ram Panjwani's Blogs"
-        logoHomeLink = "/"
+        logoHomeLink = "https://rampanjwani.github.io/blogs/"
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
